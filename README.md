@@ -1,2 +1,2 @@
 # EEP153Proj1
-Repo for Project 1 for EEP 153
+Repo for Dorothy Thomas - Project 1 for EEP 153
